@@ -1,6 +1,6 @@
 services:
   app:
-    image: ghcr.io/basketikun/infinite-canvas:latest
+    image: ghcr.io/juuchen1/ai-:latest
     container_name: infinite-canvas
     env_file:
       - .env
