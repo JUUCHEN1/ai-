@@ -11,7 +11,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/juuchen1/ai-
+  IMAGE_NAME: ghcr.io/juuchen1/ai
 
 jobs:
   build:
